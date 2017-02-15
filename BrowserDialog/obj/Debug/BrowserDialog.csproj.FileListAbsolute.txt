@@ -1,0 +1,23 @@
+c:\users\gebruiker\documents\visual studio 2015\Projects\BrowserDialog\BrowserDialog\bin\Debug\BrowserDialog.exe.config
+c:\users\gebruiker\documents\visual studio 2015\Projects\BrowserDialog\BrowserDialog\bin\Debug\BrowserDialog.exe
+c:\users\gebruiker\documents\visual studio 2015\Projects\BrowserDialog\BrowserDialog\bin\Debug\BrowserDialog.pdb
+c:\users\gebruiker\documents\visual studio 2015\Projects\BrowserDialog\BrowserDialog\obj\Debug\BrowserDialog.csprojResolveAssemblyReference.cache
+c:\users\gebruiker\documents\visual studio 2015\Projects\BrowserDialog\BrowserDialog\obj\Debug\BrowserDialog.frmBrowsers.resources
+c:\users\gebruiker\documents\visual studio 2015\Projects\BrowserDialog\BrowserDialog\obj\Debug\BrowserDialog.Hoofdscherm.resources
+c:\users\gebruiker\documents\visual studio 2015\Projects\BrowserDialog\BrowserDialog\obj\Debug\BrowserDialog.Properties.Resources.resources
+c:\users\gebruiker\documents\visual studio 2015\Projects\BrowserDialog\BrowserDialog\obj\Debug\BrowserDialog.csproj.GenerateResource.Cache
+c:\users\gebruiker\documents\visual studio 2015\Projects\BrowserDialog\BrowserDialog\obj\Debug\BrowserDialog.exe
+c:\users\gebruiker\documents\visual studio 2015\Projects\BrowserDialog\BrowserDialog\obj\Debug\BrowserDialog.pdb
+C:\Users\Pieterjan\Downloads\BrowserDialog\BrowserDialog\BrowserDialog\bin\Debug\BrowserDialog.exe.config
+C:\Users\Pieterjan\Downloads\BrowserDialog\BrowserDialog\BrowserDialog\obj\Debug\BrowserDialog.exe
+C:\Users\Pieterjan\Downloads\BrowserDialog\BrowserDialog\BrowserDialog\obj\Debug\BrowserDialog.pdb
+C:\Users\Pieterjan\Downloads\BrowserDialog\BrowserDialog\BrowserDialog\bin\Debug\BrowserDialog.exe
+C:\Users\Pieterjan\Downloads\BrowserDialog\BrowserDialog\BrowserDialog\bin\Debug\BrowserDialog.pdb
+C:\Users\Pieterjan\Downloads\BrowserDialog\BrowserDialog\BrowserDialog\obj\Debug\BrowserDialog.csprojResolveAssemblyReference.cache
+C:\Users\Pieterjan\Downloads\BrowserDialog\BrowserDialog\BrowserDialog\obj\Debug\BrowserDialog.frmBrowsers.resources
+C:\Users\Pieterjan\Downloads\BrowserDialog\BrowserDialog\BrowserDialog\obj\Debug\BrowserDialog.Hoofdscherm.resources
+C:\Users\Pieterjan\Downloads\BrowserDialog\BrowserDialog\BrowserDialog\obj\Debug\BrowserDialog.Properties.Resources.resources
+C:\Users\Pieterjan\Downloads\BrowserDialog\BrowserDialog\BrowserDialog\obj\Debug\BrowserDialog.csproj.GenerateResource.Cache
+C:\Users\Pieterjan\Documents\Visual Studio 2015\Projects\BrowserDialog\BrowserDialog\bin\Debug\BrowserDialog.exe.config
+C:\Users\Pieterjan\Documents\Visual Studio 2015\Projects\BrowserDialog\BrowserDialog\obj\Debug\BrowserDialog.exe
+C:\Users\Pieterjan\Documents\Visual Studio 2015\Projects\BrowserDialog\BrowserDialog\obj\Debug\BrowserDialog.pdb
